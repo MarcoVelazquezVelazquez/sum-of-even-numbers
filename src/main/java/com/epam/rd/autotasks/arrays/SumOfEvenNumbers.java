@@ -25,8 +25,8 @@ public class SumOfEvenNumbers {
         int sum = 0;
 
         /*for (int num : array) {
-            if ((array[num] % 2) == 0){
-                sum = sum + array[num];
+            if (num % 2 == 0){
+                sum = sum + num;
             }
         }*/
 
